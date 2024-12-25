@@ -1,0 +1,1 @@
+{"playerPos":{"x":23.992586135864259,"y":1.0000001192092896,"z":22.895946502685548},"playerRot":{"x":0.0,"y":91.19998168945313,"z":0.0},"invenArrayNumber":[0,10,11,12,13,14,15],"invenItemName":["SubMachineGun1","Axe","PickAxe","Twig","Potion Green","Potion Red","Log"],"invenItemNumber":[1,1,1,2,1,1,3]}

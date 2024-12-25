@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5dac8cbfa6b40740aef72b1f4884621, type: 3}
+  m_Name: Twig
+  m_EditorClassIdentifier: 
+  itemName: Twig
+  itemDesc: "\uB098\uBB47\uAC00\uC9C0\uB2E4\n\uBAA8\uB2E5\uBD88\uC5D0 \uC0AC\uC6A9\uD55C\uB2E4."
+  itemType: 2
+  itemImage: {fileID: 21300000, guid: 111e064a477979a4b984fe160e7be326, type: 3}
+  itemPrefab: {fileID: 2472759312551457257, guid: a553e94596c259940b460e9d8d733de7, type: 3}
+  weaponType: 
